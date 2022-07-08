@@ -13,6 +13,7 @@
 		494E9E452872DEFC003C1BA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 494E9E432872DEFC003C1BA0 /* Main.storyboard */; };
 		494E9E472872DEFE003C1BA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 494E9E462872DEFE003C1BA0 /* Assets.xcassets */; };
 		494E9E4A2872DEFE003C1BA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 494E9E482872DEFE003C1BA0 /* LaunchScreen.storyboard */; };
+		49716C192877B5D900766FDC /* Github.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49716C182877B5D900766FDC /* Github.swift */; };
 		497D8C6128741B0800024168 /* DessertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 497D8C6028741B0800024168 /* DessertViewController.swift */; };
 		497D8C6328741B1F00024168 /* KatsuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 497D8C6228741B1F00024168 /* KatsuViewController.swift */; };
 		497D8C6528741B2700024168 /* ChickenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 497D8C6428741B2700024168 /* ChickenViewController.swift */; };
@@ -28,6 +29,7 @@
 		494E9E462872DEFE003C1BA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		494E9E492872DEFE003C1BA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		494E9E4B2872DEFE003C1BA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49716C182877B5D900766FDC /* Github.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Github.swift; sourceTree = "<group>"; };
 		497D8C6028741B0800024168 /* DessertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertViewController.swift; sourceTree = "<group>"; };
 		497D8C6228741B1F00024168 /* KatsuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KatsuViewController.swift; sourceTree = "<group>"; };
 		497D8C6428741B2700024168 /* ChickenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChickenViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				494E9E3D2872DEFC003C1BA0 /* AppDelegate.swift */,
 				494E9E3F2872DEFC003C1BA0 /* SceneDelegate.swift */,
 				494E9E412872DEFC003C1BA0 /* ViewController.swift */,
+				49716C182877B5D900766FDC /* Github.swift */,
 				494E9E432872DEFC003C1BA0 /* Main.storyboard */,
 				497D8C6628741B5800024168 /* HamburgerViewController.swift */,
 				497D8C6028741B0800024168 /* DessertViewController.swift */,
@@ -152,6 +155,7 @@
 			files = (
 				494E9E422872DEFC003C1BA0 /* ViewController.swift in Sources */,
 				494E9E3E2872DEFC003C1BA0 /* AppDelegate.swift in Sources */,
+				49716C192877B5D900766FDC /* Github.swift in Sources */,
 				497D8C6528741B2700024168 /* ChickenViewController.swift in Sources */,
 				494E9E402872DEFC003C1BA0 /* SceneDelegate.swift in Sources */,
 				497D8C6328741B1F00024168 /* KatsuViewController.swift in Sources */,
