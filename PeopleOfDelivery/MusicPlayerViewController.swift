@@ -1,13 +1,13 @@
 //
-//  HamburgerViewController.swift
+//  MusicPlayerViewController.swift
 //  PeopleOfDelivery
 //
-//  Created by 이동기 on 2022/07/05.
+//  Created by 이동기 on 2022/07/10.
 //
 
 import UIKit
 
-class HamburgerViewController: UIViewController {
+class MusicPlayerViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
